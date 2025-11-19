@@ -22,6 +22,6 @@
                 "text": "[\n  {\n    \"domain\": \"Interior\",\n    \"description\": \"Damaged floor tile with exposed subfloor\",\n    \"severity\": \"medium\",\n    \"recommended_action\": \"Replace damaged tile within 14 days to prevent trip hazards\"\n  }\n]"
             }
         ]
+      }
   ]
 }
-
